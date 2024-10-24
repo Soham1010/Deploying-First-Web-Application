@@ -1,0 +1,6 @@
+# Ensure all Python files use LF
+*.py text eol=lf
+
+# Set line endings for other file types
+*.sh text eol=lf
+*.bat text eol=crlf
